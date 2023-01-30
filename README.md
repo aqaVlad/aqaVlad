@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
 	<h1>Hello! I'm Vlad</h1>
-	<h3>Junior QA automation (Python)</h3>
+	<h2>Junior QA automation (Python)</h2>
 </div>
 
 
@@ -10,26 +10,13 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
   	<a href="mailto:bogovin@internet.ru">
-		<img src="https://img.shields.io/badge/@mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="E-m@il"/>
+		<img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=maildotru&logoColor=orange" alt="E-m@il"/>
 	</a>
 </div>
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div id="stack" align="center">
-  <h2>My stack. Languages and tools</h2>
+  <h3>My stack. Languages and tools</h3>
  
   <a href="https://www.python.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="50" height="50"/>&nbsp;
@@ -72,9 +59,32 @@ Here are some ideas to get you started:
   
 </div>
 
+
+
+<div id="competencies">
+  <h3  align="center">Key competencies</h3>
+<ul>
+
+<li>Testing Automation in Python - REST API, functional, cross-browser, UI/UX testing based on Page Object pattern:<br>
+	parameterization, test suites, checking responses</li>
+<li>REST API testing in Postman and Swagger: writing simple tests, collections of requests</li>
+<li>Designing test scenarios, test cases, checking responses, checklists based on test design technique, principles and types of testing</li>
+<li>Error localization, bug reports (including Jira)</li>
+<li>IDE PyCharm, VS Code, DevTools, GitHub</li>
+<li>HTML and Website Layout, CSS and XPath Locators</li>
+</ul>	
+	
+</div>
+
+
+
+
+
+
+
  
 <div id="stat" align="center">
-	<h2>My stat</h2>
+	<h3>My stat</h3>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladTestQA&theme=dracula"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladTestQA&theme=dracula"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladTestQA&theme=dracula"/>
