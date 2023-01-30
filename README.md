@@ -38,7 +38,7 @@
   <a href="https://github.com/VladTestQA" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" width="50" height="50"/>&nbsp;
   </a>
-  <hr>
+  <br>
 
   <a href="https://www.selenium.dev" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" title="Selenium" width="160" height="40"/>&nbsp;
