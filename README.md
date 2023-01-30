@@ -63,16 +63,13 @@
 
 <div id="competencies">
   <h3  align="center">Key competencies</h3>
-<ul>
-
-<li>Testing Automation in Python - REST API, functional, cross-browser, UI/UX testing based on Page Object pattern:<br>
-	parameterization, test suites, checking responses</li>
-<li>REST API testing in Postman and Swagger: writing simple tests, collections of requests</li>
-<li>Designing test scenarios, test cases, checking responses, checklists based on test design technique, principles and types of testing</li>
-<li>Error localization, bug reports (including Jira)</li>
-<li>IDE PyCharm, VS Code, DevTools, GitHub</li>
-<li>HTML and Website Layout, CSS and XPath Locators</li>
-</ul>	
+	<ul>
+	<li>Testing Automation in Python - REST API, functional, cross-browser, UI/UX testing based on Page Object pattern</li>
+	<li>Designing test scenarios, test cases, checklists based on test design technique, principles and types of testing</li>
+	<li>Writing tests, test suites, collections of requests, parameterization, checking responses</li>
+	<li>Error localization, bug reports, defect management</li>
+	<li>HTML and Website Layout, CSS and XPath Locators</li>
+	</ul>	
 	
 </div>
 
