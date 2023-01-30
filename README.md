@@ -88,7 +88,7 @@
 <hr>
 <div id="stat" align="center">
 	<h3>My stat</h3>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladTestQA&theme=dracula"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladTestQA&theme=dracula"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladTestQA&theme=dracula"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladTestQA&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladTestQA&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladTestQA&theme=github_dark"/>
 </div>
