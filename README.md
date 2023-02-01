@@ -5,7 +5,7 @@
 </div>
 
 <div id="contacts" align="center">
-	<a href="https://t.me/vwvwvwvwvwv" target="_blank">
+	<a href="https://t.me/vwvwvwvwvwv" target="_self">
 	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" width="130" height="35"/>
 	</a>
   	<a href="mailto:bogovin@internet.ru">
