@@ -6,10 +6,10 @@
 
 <div id="contacts" align="center">
 	<a href="https://t.me/vwvwvwvwvwv" target="_blank">
-	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" width="130" height="35"/>
 	</a>
   	<a href="mailto:bogovin@internet.ru">
-	<img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=maildotru&logoColor=orange" alt="E-m@il"/>
+	<img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=maildotru&logoColor=orange" title="E-m@il" width="130" height="35"/>
 	</a>
 </div>
 
@@ -38,13 +38,13 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" title="Selenium" width="160" height="40"/>&nbsp;
 	</a>
 	<a href="https://www.postman.com" target="_blank">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" title="Postman" width="160" height="50"/>&nbsp;
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" title="Postman" width="160" height="45"/>&nbsp;
 	</a>
 	<a href="https://www.atlassian.com/software/jira" target="_blank">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" title="Jira" width="180" height="60"/>&nbsp;
+	<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" title="Jira" width="180" height="55"/>&nbsp;
 	</a>
 	<a href="https://developer.chrome.com/docs/devtools" target="_blank">
-	<img src="https://reks.biz/pics/p4122.svg" title="DevTools" width="180" height="50"/>&nbsp;
+	<img src="https://reks.biz/pics/p4122.svg" title="DevTools" width="180" height="45"/>&nbsp;
 	</a>
 </div>
 <hr>
