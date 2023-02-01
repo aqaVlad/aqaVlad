@@ -5,10 +5,10 @@
 </div>
 
 <div id="contacts" align="center">
-	<a href="https://t.me/vwvwvwvwvwv" target="_self">
+	<a href="https://t.me/vwvwvwvwvwv" target="_blank">
 	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" width="130" height="35"/>
 	</a>
-  	<a href="mailto:bogovin@internet.ru">
+  	<a href="mailto:bogovin@internet.ru" target="_blank">
 	<img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=maildotru&logoColor=orange" title="E-m@il" width="130" height="35"/>
 	</a>
 </div>
