@@ -54,7 +54,7 @@
 	<img src="https://dbeaver.com/wp-content/uploads/2022/10/LogoX2.png" title="DBeaver SQL" width="180" height="55"/>&nbsp;
 	</a>
 	<a href="https://developer.chrome.com/docs/devtools" target="_blank">
-	<img src="https://reks.biz/pics/p4122.svg" title="DevTools" width="180" height="45"/>&nbsp;
+	<img src="https://reks.biz/pics/p4122.svg" title="Chromium DevTools" width="180" height="45"/>&nbsp;
 	</a>
 </div>
 <hr>
