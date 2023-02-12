@@ -24,6 +24,9 @@
 	<a href="https://www.w3.org/html" target="_blank">
 	<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" title="HTML" width="55" height="55"/>&nbsp;
 	</a>
+	<a href="https://www.iso.org/standard/63555.html" target="_blank">
+	<img src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" title="SQL" width="55" height="55"/>&nbsp;
+	</a>
 	<a href="https://github.com/VladTestQA?tab=repositories" target="_blank">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" width="50" height="50"/>&nbsp;
 	</a>
