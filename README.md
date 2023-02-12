@@ -43,6 +43,9 @@
 	<a href="https://www.postman.com" target="_blank">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" title="Postman" width="160" height="45"/>&nbsp;
 	</a>
+	<a href="https://swagger.io" target="_blank">
+	<img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.png" title="DevTools" width="180" height="45"/>&nbsp;
+	</a>
 	<a href="https://www.atlassian.com/software/jira" target="_blank">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" title="Jira" width="180" height="55"/>&nbsp;
 	</a>
