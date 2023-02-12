@@ -60,6 +60,7 @@
 	<li>Writing tests, test suites, collections of requests, parameterization, checking responses</li>
 	<li>Error localization, bug reports, defect management</li>
 	<li>HTML and Website Layout, CSS and XPath Locators</li>
+	<li>SQL (DBeaver: PostgreSQL, MySQL)</li>
 	</ul>	
 </div>
 
