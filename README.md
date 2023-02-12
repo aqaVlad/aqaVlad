@@ -14,7 +14,7 @@
 </div>
 
 <div id="stack" align="center">
-  <h3>My stack: languages, frameworks and tools</h3>
+  <h2>My stack: languages, frameworks and tools</h2>
  	<a href="https://www.python.org" target="_blank">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="50" height="50"/>&nbsp;
 	</a>
