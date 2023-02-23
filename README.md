@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
 	<h1>Hello! I'm Vlad</h1>
-	<h2>Junior QA automation (Python)</h2>
+	<h2>QA Automation (Python)</h2>
 </div>
 
 <div id="contacts" align="center">
