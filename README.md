@@ -67,18 +67,17 @@
 	<li>Writing tests, test suites, collections of requests, parameterization, checking responses</li>
 	<li>Error localization, bug reports, defect management</li>
 	<li>HTML and Website Layout, CSS and XPath Locators</li>
-	<li>SQL (DBeaver: PostgreSQL, MySQL)</li>
+	<li>Customer and product development, hypothesis testing</li>
 	</ul>	
 </div>
 
 <div id="skills">
   <h3  align="center">Skills</h3>
 	<ul>
-	<li>Customer development (cusdev) and product development</li>
-	<li>Testing hypotheses, user experience, value proposition, target audience and customer journey map</li>
-	<li>Foresight and strategy sessions, brainstorming sessions, group discussions, project activities</li>
-	<li>Competent speech, business correspondence and business etiquette</li>
-	<li>Knowledge of technical language, Interdisciplinarity</li>
+	<li>Formulate thoughts, questions, and show meticulous attention to detail</li>
+	<li>Analyze, plan, conduct foresight sessions, brainstorming, group discussions</li>
+	<li>Practice Agile approach, adapt to circumstances and conditions, focus on current work</li>
+	<li>Know technical language and competent speech, business correspondence and business etiquette. Interdisciplinarity</li>
 	<li>Good sense of humor and positive attitude</li>
 	</ul>	
 </div>
