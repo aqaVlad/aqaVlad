@@ -87,7 +87,7 @@
 	<h3>My stat</h3>
 	<img src="https://komarev.com/ghpvc/?username=VladTestQA&style=flat-square&color=blue" alt=""/>
 	<br>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladTestQA&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladTestQA&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VladTestQA&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aqavlad&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aqavlad&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aqavlad&theme=github_dark"/>
 </div>
