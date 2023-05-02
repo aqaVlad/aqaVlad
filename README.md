@@ -8,7 +8,7 @@
 	<a href="https://t.me/aqavlad" target="_blank">
 	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" width="130" height="35"/>
 	</a>
-  	<a href="mailto:bogovin@internet.ru" target="_blank">
+  	<a href="mailto:aqavlad@internet.ru" target="_blank">
 	<img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=maildotru&logoColor=orange" title="E-m@il" width="130" height="35"/>
 	</a>
 </div>
